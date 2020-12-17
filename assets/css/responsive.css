@@ -1,0 +1,255 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.single_footer img {
+	width: 100%;
+}
+.mainmenu ul li a {
+	padding: 25px 5px;
+	font-size: 14px;
+}
+.gallery-shadow.tile_gallery img:nth-child(2) {
+	display:none
+}
+.top_cat .section-title h4 {
+	font-size: 45px;
+}
+.single_service h4 {
+	font-size: 20px;
+}
+.single_blog ul li {
+	margin-right: 15px;
+}
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.logo {
+	text-align: center;
+}
+.mainmenu {
+	text-align: center;
+}
+.mainmenu ul li a {
+	font-size: 14px;
+}
+.page-header {
+	padding: 140px 0 20px 0;
+}
+.single_footer img {
+	width:100%
+}
+.single_footer h4 {
+	font-size: 20px;
+}
+.single_footer.arrow ul li {
+	padding-left: 14px;
+}
+.single_footer ul li {
+	font-size: 13px;
+	padding-left: 16px;
+}
+.cta h1 {
+	font-size: 40px;
+	margin-top: 20px;
+}
+.about-area img {
+	width: 100%;
+}
+.slider_text h2 {
+	font-size: 40px;
+}
+.slider_text p {
+	font-size: 35px;
+}
+.single_menu_list {
+	padding-left: 115px;
+	margin-bottom: 60px;
+}
+.single_menu_list h4 {
+	font-size: 18px;
+}
+.single_menu_list h4 span {
+	font-size: 17px;
+}
+.reservation::before {
+	display: none;
+}
+#navbar-nav li a {
+	
+	font-size: 14px;
+}
+.gallery-shadow.tile_gallery {
+	display: none;
+}
+.onepage_nav li a {
+	padding: 25px 5px !important;
+}
+
+
+}
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+.mainmenu {
+  display: none;
+}
+.slicknav_menu {
+	display: block;
+	background-color: transparent;
+	position: fixed;
+	right: 0;
+	width: 100%;
+	margin-top: 7px;
+	z-index:99999
+}
+.slicknav_nav {
+	background-color: #F3F3F3;
+	margin-top: 53px;
+}	
+.slicknav_nav a {
+	color: #333;
+}
+.slicknav_nav li{
+	display: block;
+	border-bottom: 1px solid #ddd;
+	padding: 5px 0;
+}
+.slicknav_nav li:last-child{
+	border-bottom: 1px solid transparent;
+}
+.slicknav_nav a:hover {
+	color: red;
+	background-color: transparent;
+}
+.page-title h2 {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.pt-60 {
+	padding-top: 15px;
+}
+.cta h1 {
+	font-size: 35px;
+	margin-top: 15px;
+}
+.cta ul {
+	text-align: center;
+}
+.footer {
+	padding-top: 20px;
+}
+.page-header {
+	padding: 95px 0 30px 0;
+}
+.single_service img {
+	margin-top: 0px;
+}
+.single_mid {
+	margin-bottom: 40px;
+}
+.reservation::before {
+	display: none;
+}
+.about-area img {
+	width: 100%;
+}
+.testimonial_area .owl-dots {
+	margin-top: -30px;
+}
+.slider_text p {
+	font-size: 30px;
+}
+.slider_text h2 {
+	font-size: 45px;
+}
+.single_menu_list {
+	padding-left: 0;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.single_comment:nth-child(3) {
+	margin-left: 0;
+}
+.gallery-shadow.tile_gallery {
+	display: none;
+}
+.single_menu_list h4 {
+	padding-bottom: 15px;
+	line-height: 1.6;
+}
+.pb-60 {
+	padding-bottom: 15px;
+}
+.header.header-fixed {
+	padding-bottom: 10px;
+}
+.single_testimonial {
+	margin-top: 0px;
+}
+
+.logo img {
+  width: 150px;
+}
+.header.header-fixed {
+  background-color: #333;
+  position: fixed;
+  padding-bottom: 15px;
+}
+.single_menu_list img {
+	max-width: 50%;
+	position: static;
+	border-radius: 50%;
+	margin-bottom: 15px;
+}
+.single_menu_list h4 span {
+	float: none;
+	display: block;
+}
+.mb-60 {
+	margin-bottom: 30px;
+}
+.single_testimonial img {
+	position: static;
+	margin:0 auto;
+	margin-bottom:10px
+}
+.single_testimonial {
+	padding-left: 0px;
+	text-align: center;
+}
+.single_team {
+	margin-top: 0px;
+}
+.section-title h4 {
+	font-size: 30px;
+}
+.section-title p {
+	font-size: 20px;
+}
+.top_cat .section-title h4 {
+	font-size: 35px;
+}
+
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+
+
+
+}
